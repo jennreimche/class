@@ -1,3 +1,4 @@
+#new version
 #read the input data
 stat1_interactions_new <- read.csv("/Users/jennifer/Documents/bioinformatics/r/stat1_interactions.tsv",sep="\t")
 
